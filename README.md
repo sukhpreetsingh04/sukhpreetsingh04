@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning data structures and acing myself into problem solving
 - 💞️ I’m looking to collaborate on software engineering
-- 📫 How to reach me, you can reach me on linkedin
+- 📫 How to reach me, you can reach me on linkedin - www.linkedin.com/in/sukhpreet-singh-6aaa77342
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: coding is fun
 
