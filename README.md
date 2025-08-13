@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me, you can reach me on linkedin - www.linkedin.com/in/sukhpreet-singh-6aaa77342
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: coding is fun
+- ⚡ Fun fact: There Are Approximately 700 Programming Languages
 
 <!---
 sukhpreetsingh04/sukhpreetsingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
