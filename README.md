@@ -24,9 +24,7 @@
 
 ⚡ Android versions were named after desserts alphabetically until Android 10.
 
-⚡ Fun fact: Until Android 10, Android versions were named after sweets in alphabetical order. Even 
-though the public names stopped, the dessert tradition still continues internally with codenames 
-like “Vanilla Ice Cream” (Android 15) and “Baklava” (Android 16).
+⚡ Fun fact: Android’s dessert naming tradition officially ended at Android 10… but the sweets are still alive behind the scenes. Internal codenames like “Vanilla Ice Cream” (Android 15) and “Baklava” (Android 16) keep the tradition going.
 
 <!---
 sukhpreetsingh04/sukhpreetsingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
