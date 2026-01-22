@@ -9,14 +9,20 @@
 - 🔧 Familiar with Git & GitHub for version control 
 - 🎯 Focused on mastering one domain at a time 
 - 🚀 Aspiring to build robust, user-friendly Android apps
-- ⚡ Fun fact: There Are Approximately 700 Programming Languages.
-- ⚡ Fun fact: The first bug ever found was a real "bug".
-- ⚡ Fun fact: Nasa Still relies on decades-old language like FORTRAN and HAL/S.
-- ⚡ Fun fact: The Name "Android" actually was the nickname of co-founder Andy Rubin at Apple in 1989 because of his deep fascination with robots.
-- ⚡ Fun fact: There is an official method called "wtf()" in android logging system which stands for "What a Terrible Failure"!
-- ⚡ Fun fact: The little green robot logo is famous for "Android" but its internal nickname is "Bugdroid"!
-- ⚡ Fun fact: Until Android 10, versions were named after sweets in alphabetical orders while "Vanilla Ice Cream" (Android 15) and "Baklava" (Android 16) continue the tradition.
-- ⚡ Fun fact: The first person who made programming language was actually a women.
+  
+## Fun Facts (Tech + Android)
+
+⚡ 700+ programming languages exist.
+
+⚡ First bug was a real insect found in a computer.
+
+⚡ NASA still uses FORTRAN in some systems.
+
+⚡ Android’s internal codename for the robot is Bugdroid.
+
+⚡ Android logging has a wtf() method (What a Terrible Failure).
+
+⚡ Android versions were named after desserts alphabetically until Android 10.
 
 <!---
 sukhpreetsingh04/sukhpreetsingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
