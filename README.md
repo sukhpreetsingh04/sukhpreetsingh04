@@ -13,6 +13,9 @@
 - ⚡ Fun fact: The first bug ever found was a real "bug".
 - ⚡ Fun fact: Nasa Still relies on decades-old language like FORTRAN and HAL/S.
 - ⚡ Fun fact: The Name "Android" actually was the nickname of co-founder Andy Rubin at Apple in 1989 becuase of his deep fascination with robots.
+- ⚡ Fun fact: There is an official method called "wtf()" in android logging system which stands for "What a Terrible Failure"!
+- ⚡ Fun fact: The little green robot logo is famous for "Android" but its internal nickname is "Bugdroid"!
+- ⚡ Fun fact: Until Android 10, versions were named after sweets in alphabetical orders while "Vanilla Ice Cream" (Android 15) and "Baklava" (Android 16) continue the tradtion.
 
 <!---
 sukhpreetsingh04/sukhpreetsingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
