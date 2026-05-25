@@ -13,8 +13,9 @@
 - 🔧 Acing myself into Git and Github for version control.
   
 # Let's Connect!
-- 📫 How to reach me, you can reach me on LinkedIn - www.linkedin.com/in/sukhpreet-singh-6aaa77342
-- [📫 Get in Touch](https://sukhpreetsingh19289@gmail.com)
+- [LinkedIn](www.linkedin.com/in/sukhpreet-singh-6aaa77342)
+- [Email](https://sukhpreetsingh19289@gmail.com)
+- [PortFolio](https://sukhpreetsingh-portfolio.netlify.app/)
 
 
 # You can view or download my resume here:
