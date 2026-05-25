@@ -15,6 +15,7 @@
 # Let's Connect!
 - 📫 How to reach me, you can reach me on LinkedIn - www.linkedin.com/in/sukhpreet-singh-6aaa77342
 - [📫 Get in Touch](https://sukhpreetsingh19289@gmail.com)
+- [View my Resume](./Resume'.pdf)
 
 # 💬 Ask me about
 Android Development, Kotlin and Data Structures and Algorithms.
