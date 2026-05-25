@@ -19,7 +19,7 @@
 
 # You can view or download my resume here:
 
-[📄 View Resume](./assets/Sukhpreet_Singh_Resume.pdf)
+[📄 View Resume](./assets/SukhpreetSinghResume'.pdf)
 
 # 💬 Ask me about
 Android Development, Kotlin and Data Structures and Algorithms.
