@@ -14,6 +14,10 @@
   
 # Let's Connect!
 - 📫 How to reach me, you can reach me on LinkedIn - www.linkedin.com/in/sukhpreet-singh-6aaa77342
+- [📫 Get in Touch](https://sukhpreetsingh19289@gmail.com)
+
+# 💬 Ask me about
+Android Development, Kotlin and Data Structures and Algorithms.
 
 <!---
 sukhpreetsingh04/sukhpreetsingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
