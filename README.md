@@ -13,7 +13,7 @@
 - 🔧 Acing myself into Git and Github for version control.
   
 # Let's Connect!
-- [LinkedIn](www.linkedin.com/in/sukhpreet-singh-6aaa77342)
+- [LinkedIn](https://www.linkedin.com/in/sukhpreet-singh-6aaa77342/)
 - [Email](https://sukhpreetsingh19289@gmail.com)
 - [PortFolio](https://sukhpreetsingh-portfolio.netlify.app/)
 
