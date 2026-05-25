@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Sukhpreet Singh
 
-- Creating Android apps, learning systems, improving daily, aspiring Software Engineer specializing in Android & Kotlin.
+- Creating Android apps, learning systems, improving daily. | Aspiring Software Engineer specializing in Android & Kotlin.
 - 😄 Pronouns: He/him/his
 - 🎯 Focused on mastering one domain at a time 
 - 🚀 Aspiring to build robust, user-friendly Android apps
@@ -15,7 +15,11 @@
 # Let's Connect!
 - 📫 How to reach me, you can reach me on LinkedIn - www.linkedin.com/in/sukhpreet-singh-6aaa77342
 - [📫 Get in Touch](https://sukhpreetsingh19289@gmail.com)
-- [View my Resume](./Resume'.pdf)
+
+
+# You can view or download my resume here:
+
+[📄 View Resume](./assets/Sukhpreet_Singh_Resume.pdf)
 
 # 💬 Ask me about
 Android Development, Kotlin and Data Structures and Algorithms.
