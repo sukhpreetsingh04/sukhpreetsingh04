@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Sukhpreet Singh
 
-- Creating Android apps, learning systems, improving daily. | Aspiring Software Engineer specializing in Android & Kotlin.
+- Creating Android apps, learning systems, improving daily. Aspiring Software Engineer specializing in Android & Kotlin.
 - 😄 Pronouns: He/him/his
 - 🎯 Focused on mastering one domain at a time 
 - 🚀 Aspiring to build robust, user-friendly Android apps
