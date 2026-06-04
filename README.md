@@ -1,20 +1,16 @@
-# Hey there! 👋 I'm Sukhpreet Singh
+# Hey there! 👋 I'm a software developer with a passion for Mobile App Development.
 
 - Creating Android apps, learning systems, improving daily. Aspiring Software Engineer specializing in Android & Kotlin.
-- 😄 Pronouns: He/him/his
-- 🎯 Focused on mastering one domain at a time 
-- 🚀 Aspiring to build robust, user-friendly Android apps
-- ⚡ Android’s internal codename for the robot is Bugdroid.
 
 # Currently Learning
-- 🌱 I’m currently learning data structures and acing myself into problem solving using C++.
-- 💞️ I’m looking to collaborate on android development.
-- 📱 Learning Kotlin & Android Development (Jetpack Compose, Coroutines).
-- 🔧 Acing myself into Git and Github for version control.
+- I’m currently learning data structures and acing myself into problem solving using C++.
+- I’m looking to collaborate on android development.
+- Learning Kotlin & Android Development (Jetpack Compose, Coroutines).
+- Acing myself into Git and Github for version control.
   
-# Let's Connect!
+# You can Find me on:
 - [LinkedIn](https://www.linkedin.com/in/sukhpreet-singh-6aaa77342/)
-- [Email](https://sukhpreetsingh19289@gmail.com)
+- [GitHub](https://www.github.com/sukhpreetsingh04/)
 - [PortFolio](https://sukhpreetsingh-portfolio.netlify.app/)
 
 
