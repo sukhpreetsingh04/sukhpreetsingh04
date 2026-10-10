@@ -1,12 +1,29 @@
-# Hey there! 👋 I'm a software developer with a passion for Mobile App Development.
+# Hey there! 👋 I'm Sukhpreet Singh
 
-- Creating Android apps, learning systems, improving daily. Aspiring Software Engineer specializing in Android & Kotlin.
+I'm a Computer Science student passionate about programming, problem-solving, and understanding how software works under the hood.
 
-# Currently Learning
-- I’m currently learning data structures and acing myself into problem solving using C++.
-- I’m looking to collaborate on android development.
-- Learning Kotlin & Android Development (Jetpack Compose, Coroutines).
-- Acing myself into Git and Github for version control.
+I started my development journey with C++ and later explored Android development using Kotlin and Jetpack Compose. Currently, I'm focusing on strengthening my programming fundamentals and developing my problem-solving skills through Data Structures and Algorithms.
+
+## 🚀 Currently Focusing On
+
+- 💻 **C++** — Programming fundamentals, STL, and object-oriented programming.
+- 🧠 **Data Structures & Algorithms** — Building problem-solving skills and practicing coding problems on LeetCode.
+- ⏱️ **Complexity Analysis** — Understanding time and auxiliary-space complexity.
+- 🌿 **Git & GitHub** — Version control, maintaining repositories, and tracking my learning journey.
+
+## 🛠️ Previous Development Experience
+
+- 📱 **Android Development** — Kotlin and Jetpack Compose.
+- 🌐 **API Integration** — Retrofit and REST APIs.
+- 🏗️ **Application Structure** — Basic understanding of ViewModel and separation of UI and data responsibilities.
+
+## 🎯 My Goal
+
+To build a strong foundation in computer science, become a better problem solver, and grow into a software engineer who understands not just how to write code, but why it works.
+
+I'm continuously learning, experimenting, and improving one problem at a time.
+
+📌 Explore my repositories to see my projects and learning progress.
   
 # You can Find me on:
 - [LinkedIn](https://www.linkedin.com/in/sukhpreet-singh-6aaa77342/)
@@ -19,7 +36,7 @@
 [📄 View Resume](./assets/SukhpreetSinghResume'.pdf)
 
 # 💬 Ask me about
-Android Development, Kotlin and Data Structures and Algorithms.
+C++, version-control and Data Structures and Algorithms.
 
 <!---
 sukhpreetsingh04/sukhpreetsingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
