@@ -1,44 +1,69 @@
-# Hey there! 👋 I'm Sukhpreet Singh
+# Hey there, I'm Sukhpreet Singh 👋
 
-I'm a Computer Science student passionate about programming, problem-solving, and understanding how software works under the hood.
+### Aspiring Software Development Engineer | Android Developer
 
-I started my development journey with C++ and later explored Android development using Kotlin and Jetpack Compose. Currently, I'm focusing on strengthening my programming fundamentals and developing my problem-solving skills through Data Structures and Algorithms.
+I'm a Computer Science student interested in building software, solving problems, and understanding how things work under the hood.
 
-## 🚀 Currently Focusing On
+My programming journey started with **C++**, where I developed an interest in programming fundamentals and computer science. I'm now focusing on **native Android development with Kotlin and Jetpack Compose**, while strengthening my knowledge of Data Structures & Algorithms and core CS concepts.
 
-- 💻 **C++** — Programming fundamentals, STL, and object-oriented programming.
-- 🧠 **Data Structures & Algorithms** — Building problem-solving skills and practicing coding problems on LeetCode.
-- ⏱️ **Complexity Analysis** — Understanding time and auxiliary-space complexity.
-- 🌿 **Git & GitHub** — Version control, maintaining repositories, and tracking my learning journey.
+I believe good software engineering goes beyond writing code — it's about understanding the problem, making thoughtful design decisions, and building solutions that work reliably.
 
-## 🛠️ Previous Development Experience
+---
 
-- 📱 **Android Development** — Kotlin and Jetpack Compose.
-- 🌐 **API Integration** — Retrofit and REST APIs.
-- 🏗️ **Application Structure** — Basic understanding of ViewModel and separation of UI and data responsibilities.
+## 🚀 What I'm Working On
+
+- 📱 **Native Android Development** — Building Android UIs with Kotlin and Jetpack Compose.
+- 🗄️ **Local Data Persistence** — Learning Room, SQLite fundamentals, and CRUD operations.
+- 🧠 **Data Structures & Algorithms** — Practicing problem-solving and pattern recognition through coding challenges.
+- 💻 **C++ & Core CS** — Strengthening programming fundamentals, STL, OOP, and complexity analysis.
+- 🛠️ **Git & GitHub** — Practicing version control and maintaining project repositories.
+
+## 🧰 Technical Skills
+
+**Languages**
+- Kotlin
+- C++
+
+**Android Development**
+- Android SDK
+- Jetpack Compose
+- Room Database
+- Retrofit
+- REST API Integration
+
+**Tools & Concepts**
+- Android Studio
+- Git & GitHub
+- Object-Oriented Programming
+- MVVM fundamentals
+- Time and Space Complexity
+
+*Currently deepening my understanding of Android architecture, data persistence, and software engineering fundamentals.*
+
+## 🧪 Projects & Learning
+
+I use my repositories to turn concepts into working implementations, understand the reasoning behind technical decisions, and document my progress.
+
+I'm particularly interested in building Android applications that combine clean user interfaces, reliable data handling, and maintainable code.
+
+📌 **Explore my repositories** to see what I'm building and learning.
 
 ## 🎯 My Goal
 
-To build a strong foundation in computer science, become a better problem solver, and grow into a software engineer who understands not just how to write code, but why it works.
+To grow into a Software Development Engineer with a strong foundation in computer science and a specialization in native Android development.
 
-I'm continuously learning, experimenting, and improving one problem at a time.
+I want to become an engineer who can not only build applications, but also reason about algorithms, architecture, performance, and the systems behind them.
 
-📌 Explore my repositories to see my projects and learning progress.
-  
-# You can Find me on:
-- [LinkedIn](https://www.linkedin.com/in/sukhpreet-singh-6aaa77342/)
-- [GitHub](https://www.github.com/sukhpreetsingh04/)
-- [PortFolio](https://sukhpreetsingh-portfolio.netlify.app/)
+One concept, one project, and one problem at a time. 🌱
 
+## 🤝 Connect With Me
 
-# You can view or download my resume here:
+- 💼 [LinkedIn](https://www.linkedin.com/in/sukhpreet-singh-6aaa77342/)
+- 💻 [GitHub](https://github.com/sukhpreetsingh04/)
+- 🌐 [Portfolio](https://sukhpreetsingh-portfolio.netlify.app/)
 
-[📄 View Resume](./assets/SukhpreetSinghResume'.pdf)
+📄 **[View My Resume](./assets/SukhpreetSinghResume.pdf)**
 
-# 💬 Ask me about
-C++, version-control and Data Structures and Algorithms.
+---
 
-<!---
-sukhpreetsingh04/sukhpreetsingh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Always learning. Always building. Always curious about what's happening under the hood.*
