@@ -62,7 +62,7 @@ One concept, one project, and one problem at a time. 🌱
 - 💻 [GitHub](https://github.com/sukhpreetsingh04/)
 - 🌐 [Portfolio](https://sukhpreetsingh-portfolio.netlify.app/)
 
-📄 **[View My Resume](./assets/SukhpreetSinghResume.pdf)**
+📄 **[View My Resume](assets/SukhpreetSinghResume.pdf)**
 
 ---
 
